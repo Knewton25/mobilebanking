@@ -1,4 +1,4 @@
- airpay
+ Airpay
 
 A new Flutter project.
 

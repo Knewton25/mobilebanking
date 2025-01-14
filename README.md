@@ -1,4 +1,3 @@
-Airpay - A Flutter-based mobile banking app providing essential features like account management, balance inquiry, fund transfers, and transaction history. Built with a clean and user-friendly interface for a smooth banking experience.
 
 ## Getting Started
 
